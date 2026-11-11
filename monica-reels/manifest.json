@@ -1,0 +1,61 @@
+{
+ "anchor_date": "2026-11-11",
+ "note": "Day index = (date - anchor_date) days mod 3. 0 -> v2, 1 -> v3, 2 -> v1. Post htm at 09:00, bs at 14:00, hrc at 17:00 America/New_York.",
+ "cycle": [
+  "v2",
+  "v3",
+  "v1"
+ ],
+ "times": {
+  "htm": "09:00:00",
+  "bs": "14:00:00",
+  "hrc": "17:00:00"
+ },
+ "reels": {
+  "htm-v1": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/htm-v1.mp4",
+   "caption": "Promoted. Untrained. Still showing up.\n\nThis is for the manager who does the work. 7-Day Authority Identity Reset. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "Promoted. Untrained. Still showing up."
+  },
+  "bs-v1": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/bs-v1.mp4",
+   "caption": "Your team isn't the problem. The standard is.\n\nSave this for your next shift. Then actually use it. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "Your team isn't the problem. The standard is."
+  },
+  "hrc-v1": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/hrc-v1.mp4",
+   "caption": "Nobody gave you the playbook. Now you have one.\n\nThe promotion does not transform you. You transform first. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "Nobody gave you the playbook. Now you have one."
+  },
+  "htm-v2": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/htm-v2.mp4",
+   "caption": "You closed again this week.\nNot because you had to. Because it was easier than asking.\n\nThat's not leadership. That's covering.\n\nSave this. Then change one thing tomorrow.\n\nThe 7-Day Authority Identity Reset is for the manager who does the work. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "You closed again this week."
+  },
+  "bs-v2": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/bs-v2.mp4",
+   "caption": "Turnover is a leadership report card. Read yours. Then fix it.\n\nYou can't retain what you never developed. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "Turnover is a leadership report card. Read yours. Then fix it."
+  },
+  "hrc-v2": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/hrc-v2.mp4",
+   "caption": "Leading by example was never supposed to mean doing it all.\n\nSet the standard. Hold it. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "Leading by example was never supposed to mean doing it all."
+  },
+  "htm-v3": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/htm-v3.mp4",
+   "caption": "The title made you a manager. Your next shift decides if you lead.\n\nWalk in knowing exactly what to say. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "The title made you a manager. Your next shift decides if you lead."
+  },
+  "bs-v3": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/bs-v3.mp4",
+   "caption": "You don't learn leadership by watching videos. You learn it under pressure.\n\nSaving this isn't preparing. Practicing it is. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "You don't learn leadership by watching videos. You learn it under pressure."
+  },
+  "hrc-v3": {
+   "url": "https://raw.githubusercontent.com/jenniferpenned-blip/penned-studio-assets/main/monica-reels/hrc-v3.mp4",
+   "caption": "Nobody is coming to hand you the next title. Earn it.\n\nYour next promotion is your responsibility. Link in bio.\n\n#retailmanager #storemanager #newmanager #leadershipdevelopment #retaillife",
+   "title": "Nobody is coming to hand you the next title. Earn it."
+  }
+ }
+}
